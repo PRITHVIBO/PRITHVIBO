@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Bhavya Gupta
 
-<!--
-**PRITHVIBO/PRITHVIBO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 CSE Student | Open Source Contributor | Hackathon Builder | Developer
 
-Here are some ideas to get you started:
+💻 Passionate about building real-world projects and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌸 Currently contributing to **GirlsScript Summer of Code 2026**
+
+🏆 Participating in hackathons, building projects, and growing through open source.
+
+- 🔭 Currently working on **Open Source Contributions**
+- 🌱 Learning **DSA, AI/ML, Web Development & Core CS**
+- 💡 Interested in **AI, Web Development, Open Source & Software Engineering**
+- 🚀 Building projects and participating in **Hackathons**
+- 🤝 Open to collaboration on interesting projects
