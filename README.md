@@ -17,18 +17,18 @@
 ## 🏆 GSSoC 2026 Badges
 
 <p align="center">
-  <img src="./badges/rising-star.png" width="100" alt="Rising Star"/>
-  <img src="./badges/first-steps.png" width="100" alt="First Steps"/>
-  <img src="./badges/discord-verified.png" width="100" alt="Discord Verified"/>
-  <img src="./badges/profile-complete.png" width="100" alt="Profile Complete"/>
+  <img src="./gssoc-badge-rising_star.png" width="100" alt="Rising Star"/>
+  <img src="./gssoc-badge-role_contributor.png" width="100" alt="Contributor"/>
+  <img src="./gssoc-badge-point_scorer.png" width="100" alt="Point Scorer"/>
 </p>
 
 <p align="center">
-  <img src="./badges/point-scorer.png" width="100" alt="Point Scorer"/>
-  <img src="./badges/bounty-hunter.png" width="100" alt="Bounty Hunter"/>
-  <img src="./badges/code-warrior.png" width="100" alt="Code Warrior"/>
+  <img src="./gssoc-badge-bounty_hunter.png" width="100" alt="Bounty Hunter"/>
+  <img src="./contributor.png" width="100" alt="Contributor"/>
+  <img src="./open.png" width="100" alt="Open Source"/>
+  <img src="./ai.png" width="100" alt="AI Contributor"/>
 </p>
 
 <p align="center">
-  <b>🌸 Proud GSSoC 2026 Contributor | 7 Badges Earned 🚀</b>
+  <b>🌸 Proud GSSoC 2026 Contributor | Building, Learning & Contributing to Open Source 🚀</b>
 </p>
