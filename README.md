@@ -32,3 +32,25 @@
 <p align="center">
   <b>🌸 Proud GSSoC 2026 Contributor | Building, Learning & Contributing to Open Source 🚀</b>
 </p>
+## 🌐 My Digital Portfolio
+
+<p align="center">
+  <a href="https://bhavyagupta.space">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-bhavyagupta.space-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Bhavya Gupta Portfolio"/>
+  </a>
+</p>
+
+🚀 **[bhavyagupta.space](https://bhavyagupta.space)** is my personal digital space where I showcase my work, projects, experiments, and journey as a developer.
+
+### 🔥 What you'll find there
+
+- 💻 **Projects & Development Work** — Web applications, experiments, and technical projects
+- 🚀 **Hackathons & Achievements** — My journey through hackathons, competitions, and learning experiences
+- 🌸 **Open Source** — My contributions and growth through communities like GSSoC 2026
+- 🤖 **AI & Technology** — Exploring AI, ML, automation, and emerging technologies
+- 🌐 **Web Development** — Projects built using modern web technologies
+- 📝 **Blogs & Learning Journey** — Sharing experiences, ideas, and things I learn along the way
+
+<p align="center">
+  <b>🌟 Build • Learn • Experiment • Contribute • Repeat</b>
+</p>
