@@ -17,6 +17,7 @@
 ## 🏆 GSSoC 2026 Badges
 
 <p align="center">
+  <img src="./gssoc-badge-power_contributor.png" width="120" alt="GSSoC 2026 Power Contributor"/>
   <img src="./gssoc-badge-rising_star.png" width="100" alt="Rising Star"/>
   <img src="./gssoc-badge-role_contributor.png" width="100" alt="Contributor"/>
   <img src="./gssoc-badge-point_scorer.png" width="100" alt="Point Scorer"/>
@@ -30,7 +31,7 @@
 </p>
 
 <p align="center">
-  <b>🌸 Proud GSSoC 2026 Contributor | Building, Learning & Contributing to Open Source 🚀</b>
+  <b>🏅 Power Contributor | 🌸 Proud GSSoC 2026 Contributor | Building, Learning & Contributing to Open Source 🚀</b>
 </p>
 ## 🌐 My Digital Portfolio
 
